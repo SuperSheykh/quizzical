@@ -17,7 +17,7 @@ main {
   margin: 0px auto;
   /* border-radius: 2px; */
 
-  position: relative;
+  /* position: relative; */
   /* To add only in welcome state */
   display: flex;
   flex-direction: column;
